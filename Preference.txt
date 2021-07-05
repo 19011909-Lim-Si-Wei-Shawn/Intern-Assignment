@@ -1,0 +1,10 @@
+Regarding Preference, I would be interested in learning more about AI. I hope there would be courses or some teaching before being thrown into working hands-on immediately.
+
+As through the General Test for Interns that was given, I realized that throughout my Polytechnic Life. We were not taught how to create or start on such things, thus being a challenging assignment.
+
+But through this one week of research and trying out, I would say that I've learned a lot regarding the different software that can be used to create a game, how to publish a Public URL link, and learning more about JavaScript, Node.js, 
+
+GitHub Link: https://github.com/19011909-Lim-Si-Wei-Shawn
+Public URL Link: https://tic-tac-toe-fat.glitch.me/
+
+A zipped folder will be uploaded alongside this Preference.txt file, which contains the Src folder,
